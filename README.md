@@ -50,7 +50,8 @@ plt.plot(x_train,lr.predict(x_train),color='red')
 ```
 
 ## Output:
-![best fit line](sam.png)
+![image](https://github.com/AtchayaSundaramoorthy/Find-the-best-fit-line-using-Least-Squares-Method/assets/119393516/68efaa50-73fa-4776-aeb1-a7ee29096c11)
+
 
 
 ## Result:
